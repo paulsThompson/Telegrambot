@@ -19,10 +19,10 @@
 - **SOSO 机器人** — [@soso](https://t.me/soso?start=a_8206099206)  
   主打「关键词 → 群 / 频道 / 视频」搜索，适合快速摸清某个话题在 Telegram 上的分布情况。
 
-- **Super 搜索** — [@Super](https://t.me/Super?start=ref-7202424896)  
+- **Super 搜索** — [@Super](https://t.me/Super?start=ref-8206099206)  
   支持同时搜索群组、频道、影视、音乐以及其他 Bot 的综合搜索入口，可作为快搜的备用补充。
 
-- **神马搜索** — [@smss](https://t.me/smss?start=spread_7202424896)  
+- **神马搜索** — [@smss](https://t.me/smss?start=spread_8206099206)  
   集「资源搜索 + 签到活动」于一体的搜索机器人，常见于各种拉新与福利活动场景。
 
 
